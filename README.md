@@ -23,13 +23,13 @@
    - 公司规模分析
    - 行业趋势分析
    - 效果图：
-   - ![聊天界面](static/image/1(1).png)
-   - ![聊天界面](static/image/1(2).png)
-   - ![聊天界面](static/image/1(3).png)
-   - ![聊天界面](static/image/1(4).png)
-   - ![聊天界面](static/image/1(5).png)
-   - ![聊天界面](static/image/1(6).png)
-   - ![聊天界面](static/image/1(7).png)
+   - ![聊天界面](static/image/1.png)
+   - ![聊天界面](static/image/2.png)
+   - ![聊天界面](static/image/3.png)
+   - ![聊天界面](static/image/4.png)
+   - ![聊天界面](static/image/5.png)
+   - ![聊天界面](static/image/6.png)
+   - ![聊天界面](static/image/7.png)
 3. 数据分析
    - 多维度数据统计
    - 趋势分析
